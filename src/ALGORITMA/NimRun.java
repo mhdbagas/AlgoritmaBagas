@@ -7,7 +7,6 @@ public class NimRun {
         Scanner input = new Scanner(System.in);
         System.out.print("Nama : Muhammad Bagas Akbar ");
         String nama = input.nextLine();
-        System.out.print("NIM : 12050112788 ");
         String nim = input.nextLine();
 
         NIM objNim = new NIM();
