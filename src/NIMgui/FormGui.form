@@ -35,7 +35,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="Muhammad Bagas Akbar"/>
+        </properties>
       </component>
       <component id="3a563" class="javax.swing.JLabel">
         <constraints>
@@ -51,7 +53,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="12050112788"/>
+        </properties>
       </component>
       <component id="80e23" class="javax.swing.JLabel">
         <constraints>
@@ -67,7 +71,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="S1"/>
+        </properties>
       </component>
       <component id="19636" class="javax.swing.JLabel">
         <constraints>
@@ -83,7 +89,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="2020"/>
+        </properties>
       </component>
       <component id="2a378" class="javax.swing.JLabel">
         <constraints>
@@ -99,7 +107,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="Sains dan Teknologi"/>
+        </properties>
       </component>
       <component id="523ba" class="javax.swing.JLabel">
         <constraints>
@@ -115,7 +125,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="Teknik Informatika"/>
+        </properties>
       </component>
       <component id="803b5" class="javax.swing.JLabel">
         <constraints>
@@ -131,7 +143,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="Laki-Laki"/>
+        </properties>
       </component>
       <component id="91c12" class="javax.swing.JLabel">
         <constraints>
@@ -147,7 +161,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="2027"/>
+        </properties>
       </component>
       <component id="9aab3" class="javax.swing.JButton" binding="Save">
         <constraints>
